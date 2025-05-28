@@ -5,7 +5,7 @@
   <artifactId>MavenAnsibleWebApp02</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>MavenAnsibleWebApp02 Maven Webapp</name>
+  <name>MavenAnsibleWebApp02</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
